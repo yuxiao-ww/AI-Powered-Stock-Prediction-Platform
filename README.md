@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 # AI-Powered-Stock-Prediction-Platform
-=======
+============================================================================================================================================================
 # How to Run This Project
 This document provides the necessary steps to set up and run the project. Please follow the instructions carefully to ensure everything works smoothly.
 
-## Setup
-
-Before running the project, you need to set up the environment. Please follow the instructions in [this document](https://github.com/turingplanet/python-project-setup-tutorial/blob/main/comprehensive_set_up.md#poetry-project-setup) to install and configure Poetry.
 
 ## Configuration
 
