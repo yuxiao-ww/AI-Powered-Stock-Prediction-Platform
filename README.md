@@ -1,5 +1,6 @@
 # AI-Powered-Stock-Prediction-Platform
-# How to Run This Project
+
+## How to Run This Project
 This document provides the necessary steps to set up and run the project. Please follow the instructions carefully to ensure everything works smoothly.
 
 
